@@ -1,0 +1,2 @@
+# firecamp
+Its a game
